@@ -6,5 +6,6 @@ namespace MyFirstConsoleApp
 {
     class MyFirstClass
     {
+		Console.Writeline("COS");
     }
 }
